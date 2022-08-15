@@ -10,5 +10,3 @@
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perun02&theme=dracula)](https://github.com/perun02/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perun02&repo=desire)](https://github.com/perun02/Desire)
