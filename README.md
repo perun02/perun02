@@ -9,3 +9,4 @@
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perun02&theme=radical)](https://github.com/perun02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perun02&theme=radical)](https://github.com/perun02/github-readme-stats)
